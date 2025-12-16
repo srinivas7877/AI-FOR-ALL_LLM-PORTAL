@@ -1,0 +1,194 @@
+Project Name: AI for All – Smart Learning Management System (LMS)
+
+Purpose of the System
+The purpose of AI for All LMS is to provide a web-based learning platform where users can access courses, track progress, and interact with an AI-powered assistant that supports learning across all modules.
+
+The system will allow:
+
+Learners to enroll and study courses
+
+Admins to manage content and users
+
+AI to assist users throughout the platform
+
+Scope of the Project In Scope
+User Authentication (Login / Signup)
+
+Course Management
+
+AI Assistant integrated across the UI
+
+Progress Tracking
+
+Admin Dashboard
+
+Fully responsive UI
+
+Deployment-ready system
+
+Out of Scope
+
+Live video streaming
+
+Payment gateway (optional future phase)
+
+Native mobile apps (web-based only)
+
+User Roles 3.1 Admin
+Manage users
+
+Create and manage courses
+
+View platform analytics
+
+Control AI settings
+
+3.2 Learner (User)
+
+Register and login
+
+Browse and enroll in courses
+
+Access learning materials
+
+Interact with AI assistant
+
+Track learning progress
+
+Functional Requirements 4.1 Authentication Module
+User registration using email & password
+
+Secure login and logout
+
+Role-based access (Admin / Learner)
+
+Password reset functionality
+
+4.2 Dashboard
+Learner Dashboard
+
+Enrolled courses list
+
+Progress percentage
+
+Recently accessed lessons
+
+AI Assistant panel
+
+Admin Dashboard
+
+Total users count
+
+Total courses
+
+User activity summary
+
+Course completion analytics
+
+4.3 Course Management
+
+Admin can:
+
+Add / edit / delete courses
+
+Upload videos, PDFs, links
+
+Define course modules & lessons
+
+User can:
+
+View course details
+
+Enroll in courses
+
+Access lessons sequentially
+
+4.4 Learning Content Module
+
+Video lessons
+
+PDF / document resources
+
+Text-based lessons
+
+Quiz (basic MCQ)
+
+4.5 AI Assistant (Core Feature)
+
+The AI assistant will be available:
+
+On dashboard
+
+Inside course pages
+
+During lessons
+
+AI Capabilities
+
+Answer course-related questions
+
+Explain concepts in simple language
+
+Generate summaries of lessons
+
+Provide learning recommendations
+
+Act as a 24/7 virtual tutor
+
+4.6 Progress Tracking
+
+Track lesson completion
+
+Show course progress bar
+
+Completion status (Not Started / In Progress / Completed)
+
+Admin can view user progress reports
+
+4.7 Search & Recommendation
+
+Search courses by name or category
+
+AI recommends courses based on user activity
+
+4.8 Admin Management Module
+
+Manage users (enable/disable)
+
+View user learning history
+
+Monitor AI usage logs
+
+Manage categories
+
+Non-Functional Requirements
+Responsive design (Mobile, Tablet, Desktop)
+
+Secure authentication & data storage
+
+Fast page loading (<3 seconds)
+
+Scalable backend architecture
+
+User-friendly UI/UX
+
+Technology Stack (Suggested) Frontend
+HTML, CSS, JavaScript
+
+React.js / Bootstrap / Tailwind
+
+Backend
+
+Python (Flask or Django)
+
+REST API architecture
+
+Database
+
+PostgreSQL / MySQL
+
+AI Integration
+
+OpenAI API / LLM-based chatbot
+
+Prompt-based contextual responses    ..give the website with advanced features
